@@ -9,11 +9,11 @@
  - [L3net_example](https://github.com/hamrel-cxu/GNN_tutorial/blob/main/L3net_example.ipynb) example of defining a L3net  in the work [Graph Convolution with Low-rank Learnable Local Filters](https://arxiv.org/abs/2008.01818) (Cheng et al., 2020)
 
 
-BibTex Export (https://zenodo.org/record/7596097/export/hx#.Y9rGLuzMI74)
+BibTex Export
 ```
 @software{hamrel_cxu_2023_7596097,
-  author       = {hamrel-cxu},
-  title        = {hamrel-cxu/GNN\_examples: v1.0},
+  author       = {Xu, Chen},
+  title        = {hamrel-cxu/GNN\_tutorial: v1.0},
   month        = feb,
   year         = 2023,
   publisher    = {Zenodo},
