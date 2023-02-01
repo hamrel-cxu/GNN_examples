@@ -4,7 +4,7 @@
 
  Ongoing Tutorial on training GNN models
  
- - [OGB_training_example](https://github.com/hamrel-cxu/GNN_tutorial/blob/main/OGB_training_example.ipynb) Example of training multi-layer GCN network on an Open Graph Benchmark example
+ - [OGB_training_example](https://github.com/hamrel-cxu/GNN_tutorial/blob/main/OGB_training_example.ipynb) Example of training multi-layer GNN network on an Open Graph Benchmark example for node classification.
  
  - [L3net_example](https://github.com/hamrel-cxu/GNN_tutorial/blob/main/L3net_example.ipynb) example of defining a L3net  in the work [Graph Convolution with Low-rank Learnable Local Filters](https://arxiv.org/abs/2008.01818) (Cheng et al., 2020)
 
