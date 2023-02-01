@@ -1,0 +1,19 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: GNN Tutorial
+message: Please cite it if you find it useful
+type: software
+authors:
+  - given-names: Chen
+    family-names: Xu
+    orcid: 'https://orcid.org/0000-0001-6623-7084'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.7596097
+repository-code: 'https://github.com/hamrel-cxu/GNN_tutorial'
+abstract: >-
+  How to define GNN using existing GNN layers or customized
+  layers
+license: CC-BY-1.0
